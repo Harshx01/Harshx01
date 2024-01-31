@@ -1,5 +1,5 @@
 - 👋 Hi, I’m HARSH.
-- 👀 I’m interested in coding.
+- 👀 Passion of learning various coding languages.Specialized in python.
 - 🌱 I’m currently learning web devlopment.
 - 📫 How to reach me mail:-vardhanharsh5467@gmail.com.
 - ⚡ Fun fact: LIFE IS ALL ABOUT FIXING BUGS AND CREATING NEW THINGS.
